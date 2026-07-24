@@ -2,7 +2,7 @@
 
 A fully featured, browser-based Flappy Bird clone built with **Next.js 14**, **TypeScript**, and the **HTML5 Canvas API**. Playable on desktop and mobile, with responsive scaling, object pooling, and a full property-based test suite.
 
-🔗 **Live Demo**: _[your-vercel-url].vercel.app_ ← update this after deploying
+🔗 **Live Demo**: flappy-bird-nextjs-theta.vercel.app
 
 ---
 
@@ -39,37 +39,6 @@ A fully featured, browser-based Flappy Bird clone built with **Next.js 14**, **T
 
 - Node.js 18+ (LTS recommended)
 - npm 9+
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/flappy-bird-nextjs.git
-cd flappy-bird-nextjs
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
----
-
-## 📜 Available Scripts
-
-| Command | Description |
-|---|---|
-| `npm run dev` | Start development server with hot reload |
-| `npm run build` | Create an optimised production build |
-| `npm run start` | Serve the production build locally |
-| `npm run lint` | Run ESLint across the project |
-| `npm run test` | Run the full test suite once (CI-friendly) |
-| `npm run test:watch` | Run tests in watch mode during development |
-
----
 
 ## 🗂️ Project Structure
 
